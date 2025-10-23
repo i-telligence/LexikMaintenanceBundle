@@ -2,7 +2,7 @@
     "name": "prolix/maintenance-bundle",
     "type": "symfony-bundle",
     "description": "This bundle allows you to place your website in maintenance mode by calling two commands from your console.",
-    "keywords": ["Symfony2", "bundle", "maintenance"],
+    "keywords": ["Symfony", "bundle", "maintenance"],
     "homepage": "https://github.com/lexik/LexikMaintenanceBundle",
     "license": "MIT",
     "authors": [
@@ -33,7 +33,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "2.0.x-dev",
+            "dev-develop": "2.0.x-dev-i-telligence"
         }
     }
 }
